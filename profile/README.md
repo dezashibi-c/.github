@@ -59,6 +59,10 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 
 Contributions are welcome! If you have suggestions, improvements, or new projects to add, please feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](https://github.com/dezashibi-c-projects/.github/blob/main/LICENSE) file for more information.
+
 ## Contact
 
 - GitHub: [@dezashibi](https://github.com/dezashibi)
