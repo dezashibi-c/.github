@@ -26,11 +26,11 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 - Beginner
   1. **[Hello World](https://github.com/dezashibi-c-projects/b-hello-world)**: Getting started with `C` programming and learn all the basics.
   2. **[Calculator in C](https://github.com/dezashibi-c-projects/b-calculator)**: A cli based calulator with ability to load data from file.
-  3. **[Project Name 3](link-to-project-3)**: Brief description of what this project entails.
 
 - Intermediate
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
+  3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
 - Advanced
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
