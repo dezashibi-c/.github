@@ -31,7 +31,6 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 - Intermediate
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
-  3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
 - Advanced
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
