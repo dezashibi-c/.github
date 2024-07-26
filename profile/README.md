@@ -28,7 +28,7 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
   2. **[Calculator in C](https://github.com/dezashibi-c-projects/b-calculator)**: A cli based calulator with ability to load data from file.
 
 - Intermediate
-  1. **[Prime Number and Palindrome String Checker](https://github.com/dezashibi-c-projects/i-prpal_tool)**: checks if a given string is a palindrome then checks if a given number is a prime number, too.
+  1. **[Prime Number and Palindrome String Checker](https://github.com/dezashibi-c-projects/i-prpal_tool)**: checks if a given string is a palindrome then if the string is also an integer number will checks if the given number is a prime number, too.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
