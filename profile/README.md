@@ -15,12 +15,12 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 ## Projects
 
 ### Naming Conventions
-- `b-...` means the project demonstrates beginner friendly concepts
-- `i-...` means the project demonstrates intermediate level of programming, might be a toy project or just code examples
-- `a-...` means the project is an advanced topic, might be a fully working project or just some code examples
+- `b-...` means the project demonstrates beginner friendly concepts, the goal is to use most aspect of `C` programming as much as possible.
+- `i-...` means the project demonstrates intermediate level of programming, might be a toy project or just code examples, these codes are mostly focused on algorithms.
+- `a-...` means the project is an advanced topic, might be a fully working project or just some code examples.
 - `rc-...` means the project is meant to be for recreational demonstration.
-- `m-...` means the project is mixture of everything that cannot be included in the categories above
-- `<no-prefix>-...` projects without prefixes are personal projects and code bases that I might work on for the sake of creativity and code exercising
+- `m-...` means the project is mixture of everything that cannot be included in the categories above.
+- `<no-prefix>-...` projects without prefixes are personal projects and code bases that I might work on for the sake of creativity and code exercising.
 
 ### Projects
 - Beginner
