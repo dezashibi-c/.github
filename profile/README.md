@@ -8,7 +8,7 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 
 ## Objectives
 
-- **Skill Demonstration**: Highlight my proficiency in C programming through various projects.
+- **Skill Demonstration**: Highlight my proficiency in C programming through various projects. Also demonstrations of repository management, problem solving, patches, etc by simulating real-life situations. Most of these also have been reflected in the readme files of the repos to show knowledge management and keeping lesson learned materials.
 - **Educational Resource**: Provide a comprehensive code base for beginners and enthusiasts to learn and reference.
 - **Collaboration**: Encourage contributions and collaboration from other C developers and learners.
 
