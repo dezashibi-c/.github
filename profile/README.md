@@ -1,10 +1,12 @@
 # C Projects by [@dezashibi](https://github.com/dezashibi) (Navid Dezashibi)
 
-Welcome to **dezashibi-c-projects**! This organization is dedicated to showcasing my skills in C programming and serving as an educational resource for those interested in learning C.
+Hey all 👋 This organization is dedicated to showcasing my skills in C programming and serving as an educational resource for those interested in learning C.
 
 ## About
 
 I am Navid Dezashibi, a passionate C programmer. This organization contains a collection of my C projects, demonstrating a range of programming concepts, from basic syntax to advanced algorithms and data structures. Each project is well-documented and includes examples and explanations to aid understanding.
+
+**I would be glad to hear your opinions and also cooperate in your company project if you need help, don't hesitate to contact me.**
 
 ## Objectives
 
