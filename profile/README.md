@@ -17,7 +17,7 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 ## Projects
 
 ### Naming Conventions
-When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/repositories) you can follow these conventions to understand the category of the repository:
+When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/repositories?q=sort%3Aname-asc) you can follow these conventions to understand the category of the repository:
 - `b-...` means the project demonstrates beginner friendly concepts, the goal is to use most aspect of `C` programming as much as possible.
 - `i-...` means the project demonstrates intermediate level of programming, might be a toy project or just code examples, these codes are mostly focused on algorithms.
 - `a-...` means the project is an advanced topic, might be a fully working project or just some code examples.
