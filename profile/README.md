@@ -34,6 +34,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   1. **[Prime Number and Palindrome String Checker](https://github.com/dezashibi-c-projects/i-prpal_tool)**: checks if a given string is a palindrome then if the string is also an integer number will checks if the given number is a prime number, too.
   2. **[Matrix Multiplication](https://github.com/dezashibi-c-projects/i-matrices_mult)**: reads matrices data from the given file and prints the result of multiplying them after checking the multiplication possibility.
   3. **[Task Manager (todo list) using Linked List](https://github.com/dezashibi-c-projects/i-task_manager)**: This application will manage a list of tasks, allowing users to add, remove, display, save, and load tasks from a file.
+  4. **[Conway's Game of Life in `C`](https://github.com/dezashibi-c-projects/i-game_of_life)**: It is designed to be as simple as it can and works on Windows and Linux/Mac without problem.
 
 - Advanced
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
