@@ -37,7 +37,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   4. **[Conway's Game of Life in `C`](https://github.com/dezashibi-c-projects/i-game_of_life)**: It is designed to be as simple as it can and works on Windows and Linux/Mac without problem.
 
 - Advanced
-  1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
+  1. **[Directory Search](https://github.com/dezashibi-c-projects/a-directory_search)**: Using Multi-threading and directory traversing in a cross platform way, using third party libraries, yes or no.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
