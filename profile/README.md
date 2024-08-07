@@ -59,4 +59,4 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 - GitHub: [@dezashibi](https://github.com/dezashibi)
 
-Thank you for visiting **dezashibi-c-projects**. Happy coding!
+**Don't hesitate to contact me to share or discuss personal projects or for commercial cooperations.** 👋
