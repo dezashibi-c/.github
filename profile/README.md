@@ -38,7 +38,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   1. **[Directory Search](https://github.com/dezashibi-c-projects/a-directory_search)**: Using Multi-threading and directory traversing in a cross platform way, using third party libraries, yes or no.
   2. **[Portable Binary File Serialization in C: Ensuring Cross-Platform Data Integrity](https://github.com/dezashibi-c-projects/a-writing_portable_binary)**: A simple guide and example code for creating portable binary files in C, addressing architecture-specific challenges like endianness and data alignment.
   3. **[Understanding SIMD: A Boost for C Programs](https://github.com/dezashibi-c-projects/a-simd_in_c)**: Brief description of what this project entails.
-  4. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
+  4. *[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c-projects/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
 
 - Other projects
   1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
