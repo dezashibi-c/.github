@@ -40,10 +40,9 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   3. **[Understanding SIMD: A Boost for C Programs](https://github.com/dezashibi-c-projects/a-simd_in_c)**: Brief description of what this project entails.
   4. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c-projects/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
   5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c-projects/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
-  6. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c-projects/a-simple_xplat_mmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
 
 - Other projects
-  1. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
+  1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c-projects/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
