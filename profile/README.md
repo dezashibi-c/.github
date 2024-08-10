@@ -42,7 +42,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c-projects/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
 
 - Other projects
-  1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c-projects/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
+  1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c-projects/deza_mmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
 
