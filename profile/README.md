@@ -14,16 +14,14 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 - **Educational Resource**: Provide a comprehensive code base for beginners and enthusiasts to learn and reference.
 - **Collaboration**: Encourage contributions and collaboration from other C developers and learners.
 
-## Projects
+## Portfolio Projects
 
 ### Naming Conventions
 When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/repositories?q=sort%3Aname-asc) you can follow these conventions to understand the category of the repository:
 - `b-...` means the project demonstrates beginner friendly concepts, the goal is to use most aspect of `C` programming as much as possible.
 - `i-...` means the project demonstrates intermediate level of programming, might be a toy project or just code examples, these codes are mostly focused on algorithms.
 - `a-...` means the project is an advanced topic, might be a fully working project or just some code examples.
-- `<no-prefix>-...` projects without prefixes are personal projects and code bases that I might work on for the sake of creativity and code exercising.
 
-### Projects
 - Beginner
   1. **[Hello World](https://github.com/dezashibi-c-projects/b-hello-world)**: Getting started with `C` programming and learn all the basics.
   2. **[Calculator in C](https://github.com/dezashibi-c-projects/b-calculator)**: A cli based calulator with ability to load data from file.
@@ -41,7 +39,10 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c-projects/r
   4. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c-projects/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
   5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c-projects/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
 
-- Other projects
+## Personal Projects and Libraries
+
+projects without prefixes are personal projects and code bases that I might work on for the sake of creativity and my needs.
+
   1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c-projects/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
   2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
   3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
