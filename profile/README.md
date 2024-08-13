@@ -14,7 +14,7 @@ I am Navid Dezashibi, a passionate C programmer. This organization contains a co
 - **Educational Resource**: Provide a comprehensive code base for beginners and enthusiasts to learn and reference.
 - **Collaboration**: Encourage contributions and collaboration from other C developers and learners.
 
-**👉 NOTE: You can find out about my coding style [here](/coding_style.md)**
+**👉 NOTE: You can find out about my coding style [here](/coding_style.md)**.
 
 ### Naming Conventions
 
