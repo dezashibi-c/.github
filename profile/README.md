@@ -52,10 +52,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 ## Personal Projects and Libraries
 
   1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
-  2. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
-  3. **[Project Name 1](link-to-project-1)**: Brief description of what this project entails.
-
-**TODO: THIS LIST WILL BE UPDATED SOON**
+  2. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
 
 ## License
 
