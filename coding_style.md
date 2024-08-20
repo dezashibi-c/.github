@@ -44,6 +44,29 @@ I generally avoid excessive comment blocks at the top of files unless necessary.
 - I prefer to continue the old-school way of putting '{' and '}' in separate lines. when I'm writing `C` I can't help myself but seeing the code like that.
 - I prefer using 4 spaces for indentations.
 
+## Good advices from good people
+
+[Chris Wellons](https://nullprogram.com) also known as [skeeto](https://github.com/skeeto) has some good advices on [his blog](https://nullprogram.com/blog/2023/10/08/) about his style:
+
+For example **Primitive Types** section not only allows you to write more readable code also it amazingly increases your code portability, don't forget to include `stdint.h` by the way.
+
+```c
+typedef uint8_t   u8;
+typedef char16_t  c16;
+typedef int32_t   b32;
+typedef int32_t   i32;
+typedef uint32_t  u32;
+typedef uint64_t  u64;
+typedef float     f32;
+typedef double    f64;
+typedef uintptr_t uptr;
+typedef char      byte;
+typedef ptrdiff_t size;
+typedef size_t    usize;
+```
+
+Or some standard `Macros` such as `countof` or `lengthof`, I think it worth reading, please do ⭐!
+
 ## My Vscode Config
 
 ```js
