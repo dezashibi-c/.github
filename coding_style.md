@@ -101,6 +101,26 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
  */
 ```
 
+## Should I use libs by others?
+
+That's a tough question to answer to be honest but I personally have my own answer that works for me, so I'm going to share it with you the dear reader.
+
+- I always start with the answer "No" then I go to the following process
+- I search to see if there is any similar work done
+- If Yes:
+  - First license:
+    - I never argue over giving attribution and I think in my idea giving attribution is a must even if the programmer didn't ask for it.
+    - If I'm almost sure I might use my work in a commercial way in any possible way I just quickly check to see if the license is `GPL` based and I quickly close the browser tab if so.
+    - I prefer MIT Licenses, BSD and Apache are good as well. I respect `Public Domain` and `UnLicence` projects, and I try to go for them first and if I can I would support them, why not.
+  - Second implementation:
+    - Over-complication is not my cup of tea.
+    - Bundling too many things together is my enemy.
+    - `CMakeLists.txt` --> Meh 😒, I really prefer two file projects (one header and one implementation) even more than single header one. but single header project works for me too.
+    - If that's almost close to what I've had in mind then why bother, I go for it. I'm not suffering from masochism to redundantly implement everything by myself.
+      - **IMPORTANT TIP HERE:** That's true only when it's not a over-complication, badly crowded, hard to debug project.
+    - I would prefer to see my preferred conventions as well but if the criteria mentioned previously are met it's not a big deal just to fork the project and change it to my taste.
+- So that's when I say yes use third party libraries.
+
 ## License
 
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
