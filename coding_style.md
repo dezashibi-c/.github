@@ -115,7 +115,7 @@ That's a tough question to answer to be honest but I personally have my own answ
   - Second implementation:
     - Over-complication is not my cup of tea.
     - Bundling too many things together is my enemy.
-    - `CMakeLists.txt` --> Meh 😒, I really prefer two file projects (one header and one implementation) even more than single header one. but single header project works for me too.
+    - I really prefer two file projects (one header and one implementation) even more than single header one. but single header project works for me too.
     - If that's almost close to what I've had in mind then why bother, I go for it. I'm not suffering from masochism to redundantly implement everything by myself.
       - **IMPORTANT TIP HERE:** That's true only when it's not a over-complication, badly crowded, hard to debug project.
     - I would prefer to see my preferred conventions as well but if the criteria mentioned previously are met it's not a big deal just to fork the project and change it to my taste.
