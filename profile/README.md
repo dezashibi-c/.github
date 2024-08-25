@@ -33,6 +33,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 
   1. **[Hello World](https://github.com/dezashibi-c/b-hello-world)**: Getting started with `C` programming and learn all the basics.
   2. **[Calculator in C](https://github.com/dezashibi-c/b-calculator)**: A cli based calulator with ability to load data from file.
+  3. **[Using CMake aka. CMake template](https://github.com/dezashibi-c/b-cmake_template)**: A very beginner friendly cmake template for c projects with unit testing.
 
 ### Intermediate
 
