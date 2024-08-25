@@ -67,23 +67,41 @@ typedef size_t    usize;
 
 Or some standard `Macros` such as `countof` or `lengthof`, I think it worth reading, please do ⭐!
 
-## My Vscode Config
+## My `.clang-format` file
 
-```js
-{
-    BasedOnStyle: LLVM,
-    UseTab: Never,
-    IndentWidth: 4,
-    TabWidth: 4,
-    BreakBeforeBraces: Allman,
-    AllowShortIfStatementsOnASingleLine: false,
-    IndentCaseLabels: false,
-    ColumnLimit: 0,
-    AccessModifierOffset: -4,
-    NamespaceIndentation: All,
-    FixNamespaceComments: false,
-    PointerAlignment: Left
-}
+```.clang-format
+---
+BasedOnStyle: LLVM
+AccessModifierOffset: '-4'
+AllowShortIfStatementsOnASingleLine: WithoutElse
+BreakBeforeBraces: Allman
+CompactNamespaces: 'false'
+ContinuationIndentWidth: '2'
+FixNamespaceComments: 'true'
+IndentWidth: '4'
+MaxEmptyLinesToKeep: '2'
+NamespaceIndentation: All
+PointerAlignment: Left
+SortIncludes: 'true'
+SpaceAfterCStyleCast: 'false'
+SpaceAfterLogicalNot: 'false'
+SpaceAfterTemplateKeyword: 'false'
+SpaceBeforeAssignmentOperators: 'true'
+SpaceBeforeCpp11BracedList: 'false'
+SpaceBeforeCtorInitializerColon: 'true'
+SpaceBeforeInheritanceColon: 'true'
+SpaceBeforeParens: ControlStatements
+SpaceBeforeRangeBasedForLoopColon: 'true'
+SpaceInEmptyParentheses: 'false'
+SpacesInAngles: 'false'
+SpacesInCStyleCastParentheses: 'false'
+SpacesInContainerLiterals: 'false'
+SpacesInParentheses: 'false'
+SpacesInSquareBrackets: 'false'
+TabWidth: '4'
+UseTab: Never
+
+...
 
 ```
 
