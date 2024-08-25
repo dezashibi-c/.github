@@ -69,7 +69,9 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
 
 ## My `.clang-format` file
 
-```.clang-format
+**👉 You can download it from [here](https://raw.githubusercontent.com/dezashibi-c/.github/main/.clang-format).**
+
+```clang-format
 ---
 BasedOnStyle: LLVM
 AccessModifierOffset: '-4'
