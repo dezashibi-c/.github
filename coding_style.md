@@ -71,7 +71,7 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
 
 **👉 You can download it from [here](https://raw.githubusercontent.com/dezashibi-c/.github/main/.clang-format).**
 
-```clang-format
+```yaml
 ---
 BasedOnStyle: LLVM
 AccessModifierOffset: '-4'
