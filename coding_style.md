@@ -75,7 +75,9 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
 
 **👉 You can down it from [here](https://github.com/dezashibi-c/b-cmake_template).**
 
-- Get used to writing document comment block for functions and function macros like this:
+## Documenting `things`
+
+Get used to writing document comment block for functions and function macros like this:
 
 ```c
 /**
