@@ -71,41 +71,9 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
 
 **👉 You can download it from [here](https://raw.githubusercontent.com/dezashibi-c/.github/main/.clang-format).**
 
-```yaml
----
-BasedOnStyle: LLVM
-AccessModifierOffset: "-4"
-AllowShortFunctionsOnASingleLine: Empty
-AllowShortIfStatementsOnASingleLine: WithoutElse
-AllowShortLoopsOnASingleLine: "true"
-BreakBeforeBraces: Allman
-CompactNamespaces: "false"
-ContinuationIndentWidth: "2"
-FixNamespaceComments: "true"
-IndentWidth: "4"
-MaxEmptyLinesToKeep: "2"
-NamespaceIndentation: All
-PointerAlignment: Left
-SortIncludes: "true"
-SpaceAfterCStyleCast: "false"
-SpaceAfterLogicalNot: "false"
-SpaceAfterTemplateKeyword: "false"
-SpaceBeforeAssignmentOperators: "true"
-SpaceBeforeCpp11BracedList: "false"
-SpaceBeforeCtorInitializerColon: "true"
-SpaceBeforeInheritanceColon: "true"
-SpaceBeforeParens: ControlStatements
-SpaceBeforeRangeBasedForLoopColon: "true"
-SpaceInEmptyParentheses: "false"
-SpacesInAngles: "false"
-SpacesInCStyleCastParentheses: "false"
-SpacesInContainerLiterals: "false"
-SpacesInParentheses: "false"
-SpacesInSquareBrackets: "false"
-TabWidth: "4"
-UseTab: Never
+## Simple CMake Template
 
-```
+**👉 You can down it from [here](https://github.com/dezashibi-c/b-cmake_template).**
 
 - Get used to writing document comment block for functions and function macros like this:
 
