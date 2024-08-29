@@ -73,7 +73,7 @@ Or some standard `Macros` such as `countof` or `lengthof`, I think it worth read
 
 ## Simple CMake Template
 
-**👉 You can down it from [here](https://github.com/dezashibi-c/b-cmake_template).**
+**👉 You can download it from [here](https://github.com/dezashibi-c/b-cmake_template).**
 
 ## Documenting `things`
 
