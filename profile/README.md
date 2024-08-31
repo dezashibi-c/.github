@@ -25,7 +25,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 - `b-...` means the portfolio project demonstrates beginner friendly concepts, the goal is to use most aspect of `C` programming as much as possible.
 - `i-...` means the portfolio project demonstrates intermediate level of programming, might be a toy project or just code examples, these codes are mostly focused on algorithms.
 - `a-...` means the portfolio project is an advanced topic, might be a fully working project or just some code examples.
-- `<no prefix>...` projects without prefixes are personal projects and code bases that I might work on for the sake of creativity and my needs.
+- `<no prefix>...` projects without prefixes are personal projects and code bases that I might work on for the sake of learning, re-implementing, creativity and/or my needs.
 
 ## Portfolio Projects
 
@@ -50,10 +50,11 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
   4. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
   5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
 
-## Personal Projects and Libraries
+## Other Projects
 
   1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
   2. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
+  3. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
 
 ## License
 
