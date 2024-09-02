@@ -49,12 +49,12 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
   3. **[Understanding SIMD: A Boost for C Programs](https://github.com/dezashibi-c/a-simd_in_c)**: Brief description of what this project entails.
   4. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
   5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
+  6. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/a-clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
 
 ## Other Projects
 
   1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
   2. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
-  3. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
 
 ## License
 
