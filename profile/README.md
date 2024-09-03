@@ -40,7 +40,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
   2. **[Matrix Multiplication](https://github.com/dezashibi-c/i-matrices_mult)**: reads matrices data from the given file and prints the result of multiplying them after checking the multiplication possibility.
   3. **[Task Manager (todo list) using Linked List](https://github.com/dezashibi-c/i-task_manager)**: This application will manage a list of tasks, allowing users to add, remove, display, save, and load tasks from a file.
   4. **[Conway's Game of Life in `C`](https://github.com/dezashibi-c/i-game_of_life)**: It is designed to be as simple as it can and works on Windows and Linux/Mac without problem.
-  5. **[Directory Search](https://github.com/dezashibi-c/a-directory_search)**: Using Multi-threading and directory traversing in a cross platform way.
+  5. **[Directory Search](https://github.com/dezashibi-c/i-directory_search)**: Using Multi-threading and directory traversing in a cross platform way.
 
 ### Advanced
 
