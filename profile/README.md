@@ -40,15 +40,15 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
   2. **[Matrix Multiplication](https://github.com/dezashibi-c/i-matrices_mult)**: reads matrices data from the given file and prints the result of multiplying them after checking the multiplication possibility.
   3. **[Task Manager (todo list) using Linked List](https://github.com/dezashibi-c/i-task_manager)**: This application will manage a list of tasks, allowing users to add, remove, display, save, and load tasks from a file.
   4. **[Conway's Game of Life in `C`](https://github.com/dezashibi-c/i-game_of_life)**: It is designed to be as simple as it can and works on Windows and Linux/Mac without problem.
+  5. **[Directory Search](https://github.com/dezashibi-c/a-directory_search)**: Using Multi-threading and directory traversing in a cross platform way.
 
 ### Advanced
 
-  1. **[Directory Search](https://github.com/dezashibi-c/a-directory_search)**: Using Multi-threading and directory traversing in a cross platform way.
-  2. **[Portable Binary File Serialization in C: Ensuring Cross-Platform Data Integrity](https://github.com/dezashibi-c/a-writing_portable_binary)**: A simple guide and example code for creating portable binary files in C, addressing architecture-specific challenges like endianness and data alignment.
-  3. **[Understanding SIMD: A Boost for C Programs](https://github.com/dezashibi-c/a-simd_in_c)**: Brief description of what this project entails.
-  4. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
-  5. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
-  6. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/a-clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
+  1. **[Portable Binary File Serialization in C: Ensuring Cross-Platform Data Integrity](https://github.com/dezashibi-c/a-writing_portable_binary)**: A simple guide and example code for creating portable binary files in C, addressing architecture-specific challenges like endianness and data alignment.
+  2. **[Understanding SIMD: A Boost for C Programs](https://github.com/dezashibi-c/a-simd_in_c)**: Brief description of what this project entails.
+  3. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
+  4. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
+  5. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/a-clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
 
 ## Other Projects
 
