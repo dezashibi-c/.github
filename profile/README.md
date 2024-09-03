@@ -33,7 +33,6 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 
   1. **[Hello World](https://github.com/dezashibi-c/b-hello-world)**: Getting started with `C` programming and learn all the basics.
   2. **[Calculator in C](https://github.com/dezashibi-c/b-calculator)**: A cli based calulator with ability to load data from file.
-  3. **[Using CMake aka. CMake template](https://github.com/dezashibi-c/b-cmake_template)**: A very beginner friendly cmake template for c projects with unit testing.
 
 ### Intermediate
 
@@ -53,8 +52,9 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 
 ## Other Projects
 
-  1. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
-  2. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
+  1. **[Using CMake aka. CMake template](https://github.com/dezashibi-c/cmake_template)**: A very beginner friendly cmake template for c projects with unit testing.
+  2. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
+  3. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
 
 ## License
 
