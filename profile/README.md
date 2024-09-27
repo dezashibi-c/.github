@@ -53,8 +53,9 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
 ## Other Projects
 
   1. **[Using CMake aka. CMake template](https://github.com/dezashibi-c/cmake_template)**: A very beginner friendly cmake template for c projects with unit testing.
-  2. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
-  3. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
+  2. **[Dezashibi Common Library aka. `dcommon` lib](https://github.com/dezashibi-c/dcommon)**: My commonly used utilities, headers, scripts, etc.
+  3. **[Easy Cross-Platform File Mapping with a Single-Header C Library](https://github.com/dezashibi-c/dmmap)**: A simple and efficient single-header C library for memory-mapped file access, supporting Windows, Linux, and macOS through a unified interface.
+  4. **[Cross platform multi threading library](https://github.com/dezashibi-c/dthreads)**: Cross platform multi threading library with maximum possible familiarity of pthreads and using native api for windows.
 
 ## License
 
