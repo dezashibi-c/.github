@@ -49,6 +49,7 @@ When browsing repositories [here](https://github.com/orgs/dezashibi-c/repositori
   3. **[Producer/Consumer vs. Publisher/Subscriber in C](https://github.com/dezashibi-c/a-prod_cons_vs_pub_sub_in_c)**: An examination of the producer-consumer and publish-subscribe patterns, their implementations using in C, and their key differences and applications.
   4. **[Lexical Analysis in C with Graphs and Matrices](https://github.com/dezashibi-c/a-graph_matrix_simplified)**: Using graphs and adjacency matrices in C programming to efficiently implement finite state machines for lexical analysis and parsing.
   5. **[clox bytecode vm from Crafting Interpreters Book](https://github.com/dezashibi-c/a-clox)**: This is a follow up/re-implementation of `clox` programming language from Crafting Interpreters Book.
+  6. **[Dang based on Monkey lang](https://github.com/dezashibi-c/a-dang)**: Dezashibi lANGuage - based on the Interpreter in Go book by Thorsten Ball which I rewrote in C using my own DCommon library and with some modifications in approaches.
 
 ## Other Projects
 
